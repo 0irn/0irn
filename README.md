@@ -83,20 +83,6 @@
 
 </div>
 
-<br>
-
-<div align="center">
-
-### `> contact`
-
-<a href="https://github.com/0irn">
-  <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<a href="https://discord.com">
-  <img src="https://img.shields.io/badge/Discord-0d1117?style=for-the-badge&logo=discord&logoColor=5865F2" />
-</a>
-
-<br><br>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:7c3aed,50:161b22,100:0d1117" width="100%"/>
 
