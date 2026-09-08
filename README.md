@@ -19,29 +19,9 @@
 
 </div>
 
-<br>
-
-## `> whoami`
-
-```text
-┌──────────────────────────────────────────────────────────────┐
-│                                                              │
-│   0irn                                                       │
-│                                                              │
-│   web developer / software engineer                          │
-│                                                              │
-│   I like building things that feel fast, clean and useful.   │
-│   Mostly web stuff. Sometimes backend.                       │
-│   Occasionally something that probably didn't need to exist. │
-│                                                              │
-└──────────────────────────────────────────────────────────────┘
-```
-
-<br>
 
 <div align="center">
 
-### `stack.exe`
 
 <img src="https://skillicons.dev/icons?i=react,cs,typescript,vite,dotnet,js,html,css,git,github&perline=10" />
 
@@ -50,17 +30,6 @@
 <br>
 
 <div align="center">
-
-### `currently.exe`
-
-```text
-[████████████████████████████████████████] 100%
-
-→ building web applications
-→ experimenting with new ideas
-→ making interfaces less boring
-→ optimizing things that don't need optimizing
-```
 
 </div>
 
